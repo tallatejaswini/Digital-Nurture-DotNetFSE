@@ -1,0 +1,55 @@
+body
+{
+    font-family: Arial, sans-serif;
+    background-color: #f2f6ff;
+}
+
+
+.container
+{
+    text-align: center;
+    margin: 40px;
+}
+
+
+h1
+{
+    color: darkblue;
+}
+
+
+button
+{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+button:hover
+{
+    background-color: darkblue;
+}
+
+
+table
+{
+    margin: auto;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+
+th, td
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+input, select
+{
+    padding: 8px;
+}
